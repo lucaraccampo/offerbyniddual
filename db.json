@@ -4,7 +4,7 @@
     "card": {
       "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-12/SFONDO_GIALLO.jpg?itok=UM1cRfPX",
       "title": "Luce LIMIT.E e Gas",
-      "description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDedicato per chi vuole la sicurezza di LIMIT.E sulla Luce e la comodit\u00e0 di avere un unico fornitore anche per il Gas.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EComoda\u003C/strong\u003E: per avere Luce e Gas con un unico fornitore.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESostenibile\u003C/strong\u003E: per la luce il 100% dell\u0027energia proviene da fonti rinnovabili.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESicura\u003C/strong\u003E: avrai un tetto al costo della tua fornitura luce per 12 mesi.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ETrasparente\u003C/strong\u003E: nessun asterisco, n\u00e9 costi nascosti o clausole minuscole.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EVeloce\u003C/strong\u003E: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EPersonalizzabile\u003C/strong\u003E: Sharing? Impatto zero? Gas sostenibile?\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\r\n\u003Cp\u003ESei tu a scegliere.\u003C/p\u003E\r\n\u003C/div\u003E\r\n",
+      "description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDedicato per chi vuol...",
       "subtitle": "Offerta valida fino al 10 Ottobre 2023.",
       "type": "offer-1",
       "offerType": "dual",
@@ -88,15 +88,13 @@
       "detailsFaq": [
         {
           "question": "Perch\u00e8 dovrei scegliere questa offerta?",
-          "answer": "Per avere la sicurezza di LIMIT.E sulla Luce e la comodit\u00e0 di avere un unico fornitore anche per il Gas. Gestendo tutto semplicemente dal tuo smartphone."
-        },
+          "answer": ""        },
         {
           "question": "Con quale frequenza ricever\u00f2 le bollette? ",
-          "answer": "La frequenza di fatturazione per la luce e gas sar\u00e0 diversa. Per i prodotti luce la cadenza di fatturazione sar\u00e0 mensile. Per i prodotti gas il passo di fatturazione sar\u00e0 stagionale. Mensile per i mesi di dicembre, gennaio, febbraio, marzo; bimestrale per i mesi di aprile/maggio, giugno/luglio, agosto/settembre, ottobre/novembre."
-        },
+          "answer": ""        },
         {
           "question": "Dove posso recuperare altre informazioni su Pulsee Luce Limit.e?",
-          "answer": "A questa pagina puoi trovare tutte le informazioni che ti servono: https://pulsee.it/basta-brancolare-nel-buio"
+          "answer": ""
         }
       ],
       "customerType": "privato",
@@ -114,37 +112,33 @@
           "processName": "SimpleTransfer",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/voltura.svg",
           "name": "Voltura ordinaria",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
-        },
+          "description": ""        },
         {
           "processName": "SwitchIn",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/cambio-fornitore.svg",
           "name": "Cambio Operatore",
-          "description": "\u003Cp\u003EPer passare a Pulsee avendo attualmente un contratto con un altro fornitore\u003C/p\u003E\r\n"
-        },
+          "description": ""        },
         {
           "processName": "FirstActivation",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/activation.svg",
           "name": "Prima attivazione",
-          "description": "\u003Cp\u003EPer attivare per la prima volta un contratto su un contatore gi\u00e0 installato\u003C/p\u003E\r\n"
-        },
+          "description": ""        },
         {
           "processName": "Connection",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/connection.svg",
           "name": "Nuovo allaccio + prima attivazione",
-          "description": "\u003Cp\u003EPer installare un nuovo contatore\u003C/p\u003E\r\n"
-        },
+          "description": ""        },
         {
           "processName": "CoveredTransfer",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura.svg",
           "name": "Voltura mortis causa",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
+          "description": ""
         },
         {
           "processName": "TransferIV",
           "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura_0.svg",
           "name": "Voltura + Cambio Operatore",
-          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo con un altro fornitore e a nome di altro utente\u003C/p\u003E\r\n"
+          "description": ""
         }
       ],
       "bCodiceAgenziaIsActive": true,
