@@ -1,0 +1,185 @@
+{
+  "offer": {
+    "activationStartDate": "12/01/2023",
+    "card": {
+      "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-12/SFONDO_GIALLO.jpg?itok=UM1cRfPX",
+      "title": "Luce LIMIT.E e Gas",
+      "description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDedicato per chi vuole la sicurezza di LIMIT.E sulla Luce e la comodit\u00e0 di avere un unico fornitore anche per il Gas.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EComoda\u003C/strong\u003E: per avere Luce e Gas con un unico fornitore.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESostenibile\u003C/strong\u003E: per la luce il 100% dell\u0027energia proviene da fonti rinnovabili.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESicura\u003C/strong\u003E: avrai un tetto al costo della tua fornitura luce per 12 mesi.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ETrasparente\u003C/strong\u003E: nessun asterisco, n\u00e9 costi nascosti o clausole minuscole.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EVeloce\u003C/strong\u003E: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EPersonalizzabile\u003C/strong\u003E: Sharing? Impatto zero? Gas sostenibile?\u003C/li\u003E\r\n\u003C/ul\u003E\r\n\r\n\u003Cp\u003ESei tu a scegliere.\u003C/p\u003E\r\n\u003C/div\u003E\r\n",
+      "subtitle": "Offerta valida fino al 10 Ottobre 2023.",
+      "type": "offer-1",
+      "offerType": "dual",
+      "paymentConditions": "",
+      "products": [
+        {
+          "analyticsName": "Pulsee Limit.e DUAL",
+          "commodity": "Luce",
+          "priceType": "prezzo-indicizzato",
+          "productCode": "Pulsee00538",
+          "listCode": "000099EVML12XXPULSEEPUB14282212",
+          "configurationCode": "Pulsee00538",
+          "prices": [
+            { "name": "Energia F0", "value": "0,000", "listID": "PrezzoF0" },
+            {
+              "name": "Energia F0",
+              "value": "20,000",
+              "listID": "OnereJollyPower"
+            }
+          ],
+          "nDummyDiscountPercentage": "30"
+        },
+        {
+          "analyticsName": "Pulsee Luce LIMIT.E e Gas RELAX",
+          "commodity": "Gas",
+          "priceType": "prezzo-indicizzato",
+          "productCode": "Pulsee00284",
+          "listCode": "000099GSVML12XXPULSEEPGA14832212",
+          "configurationCode": "Pulsee00284",
+          "prices": [
+            { "name": "Gas", "value": "0,000", "listID": "PrezzoFissoGas" },
+            { "name": "Gas", "value": "12,000", "listID": "OnereJollyGas" }
+          ],
+          "nDummyDiscountPercentage": "20"
+        }
+      ],
+      "detailsDocumentation": [
+        {
+          "name": "Condizioni generali di fornitura",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2019-4-51",
+          "priceType": null
+        },
+        {
+          "name": "Note informative al cliente",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2019-4-53",
+          "priceType": null
+        },
+        {
+          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 LUCE (prezzo indicizzato)",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2022-4-15300",
+          "priceType": "prezzo-indicizzato"
+        },
+        {
+          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 GAS (prezzo indicizzato)",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2022-630736552-4904299",
+          "priceType": "prezzo-indicizzato"
+        },
+        {
+          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 LUCE (prezzo fisso)",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2022-630736552-4904539",
+          "priceType": "prezzo-fisso"
+        },
+        {
+          "name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 GAS (prezzo fisso)",
+          "type": "",
+          "size": "",
+          "id": "AXPODT2022-630736552-4904553",
+          "priceType": "prezzo-fisso"
+        }
+      ],
+      "detailsFaq": [
+        {
+          "question": "Perch\u00e8 dovrei scegliere questa offerta?",
+          "answer": "Per avere la sicurezza di LIMIT.E sulla Luce e la comodit\u00e0 di avere un unico fornitore anche per il Gas. Gestendo tutto semplicemente dal tuo smartphone."
+        },
+        {
+          "question": "Con quale frequenza ricever\u00f2 le bollette? ",
+          "answer": "La frequenza di fatturazione per la luce e gas sar\u00e0 diversa. Per i prodotti luce la cadenza di fatturazione sar\u00e0 mensile. Per i prodotti gas il passo di fatturazione sar\u00e0 stagionale. Mensile per i mesi di dicembre, gennaio, febbraio, marzo; bimestrale per i mesi di aprile/maggio, giugno/luglio, agosto/settembre, ottobre/novembre."
+        },
+        {
+          "question": "Dove posso recuperare altre informazioni su Pulsee Luce Limit.e?",
+          "answer": "A questa pagina puoi trovare tutte le informazioni che ti servono: https://pulsee.it/basta-brancolare-nel-buio"
+        }
+      ],
+      "customerType": "privato",
+      "paymentMethods": ["SDD", "CARTA DI CREDITO"],
+      "activationTypes": [
+        "Voltura ordinaria",
+        "Cambio Operatore",
+        "Prima attivazione",
+        "Nuovo allaccio + prima attivazione",
+        "Voltura mortis causa",
+        "Voltura + Cambio Operatore"
+      ],
+      "activationTypesAll": [
+        {
+          "processName": "SimpleTransfer",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/voltura.svg",
+          "name": "Voltura ordinaria",
+          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
+        },
+        {
+          "processName": "SwitchIn",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2019-05/cambio-fornitore.svg",
+          "name": "Cambio Operatore",
+          "description": "\u003Cp\u003EPer passare a Pulsee avendo attualmente un contratto con un altro fornitore\u003C/p\u003E\r\n"
+        },
+        {
+          "processName": "FirstActivation",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/activation.svg",
+          "name": "Prima attivazione",
+          "description": "\u003Cp\u003EPer attivare per la prima volta un contratto su un contatore gi\u00e0 installato\u003C/p\u003E\r\n"
+        },
+        {
+          "processName": "Connection",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/connection.svg",
+          "name": "Nuovo allaccio + prima attivazione",
+          "description": "\u003Cp\u003EPer installare un nuovo contatore\u003C/p\u003E\r\n"
+        },
+        {
+          "processName": "CoveredTransfer",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura.svg",
+          "name": "Voltura mortis causa",
+          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo a nome di altro utente\u003C/p\u003E"
+        },
+        {
+          "processName": "TransferIV",
+          "icon": "https://portale-uat.pulsee.it/sites/default/files/2022-04/voltura_0.svg",
+          "name": "Voltura + Cambio Operatore",
+          "description": "\u003Cp\u003EPer intestarmi un contratto attualmente attivo con un altro fornitore e a nome di altro utente\u003C/p\u003E\r\n"
+        }
+      ],
+      "bCodiceAgenziaIsActive": true,
+      "isOffertaPlacet": false,
+      "bCodicePromoIsActive": true,
+      "descrizioneAgcm": "\u003Cdiv class=\u0022prezzo-fisso\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E144 \u20ac/POD/anno\u003C/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 12 \u20ac.\u003C/span\u003E\u003C/div\u003E\r\n\r\n\u003Cdiv class=\u0022prezzo-indicizzato\u0022 style=\u0022flex-wrap: wrap;\r\n    justify-content: space-between;\u0022\u003E\u003Cspan\u003EIl prezzo di commercializzazione \u00e8 di \u003Cstrong\u003E240 \u20ac/POD/anno\u003C/strong\u003E per la fornitura Luce, gi\u00e0 compreso nel contributo mensile di 20\u20ac. Il valore limite per il prezzo della materia energia \u00e8 \u003Cstrong\u003E0,450 \u20ac/kWh\u003C/strong\u003E. La Quota Vendita Fissa per fornitura Gas \u00e8 di \u003Cstrong\u003E144 \u20ac/POD/anno\u003C/strong\u003E, gi\u00e0 compresa nel contributo mensile di 12 \u20ac. La Quota Vendita Variabile per fornitura Gas \u00e8 di 0,042 \u20ac/Smc.\u003C/span\u003E\u003C/div\u003E\r\n, full_html",
+      "nuovaVisualizzazioneIndicizzato": true,
+      "promoCodeRequired": false,
+      "promoCodeToExclude": null,
+      "priceCapIncluded": true
+    },
+    "checkboxes": [
+      {
+        "id": "Pulsee00051",
+        "type": "luce",
+        "listCode": "Pulsee_00120_1812",
+        "title": "My Green Energy",
+        "subtitle": "Adotta un impianto\r\n",
+        "price": "\u003Cstrong\u003E1,00\u20ac\u003C/strong\u003E al mese",
+        "image": "https://portale-uat.pulsee.it/sites/default/files/2019-12/AdottaUnImpianto.png",
+        "details": [
+          "\u003Cp\u003E\u003Cstrong\u003EScegli la tua energia.\u003C/strong\u003E\u003C/p\u003E\r\n\r\n\u003Cp\u003E\u003Cstrong\u003EEolico, solare, biomassa o idroelettrico?\u00a0\u003C/strong\u003EScegli tu. Con Pulsee puoi avere \u003Cstrong\u003Esolo energia 100% green da fonti rinnovabili\u003C/strong\u003E per i tuoi consumi. Ogni megawattora immessa in rete \u00e8 certificata dal Gestore dei Servizi Energetici, che rilascia la Garanzia d\u0027Origine. A fine anno, anche tu riceverai la tua certificazione Pulsee che attesta l\u0027origine green dell\u0027energia che hai consumato.\u003C/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003E100% green\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ECosta come un caff\u00e8 al mese\u003C/strong\u003E\u003C/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERinnovo automatico\u003C/strong\u003E\u003C/li\u003E\r\n\u003C/ul\u003E\r\n"
+        ],
+        "dropdown": {
+          "title": "Scegli l\u0027impianto",
+          "options": [
+            { "text": "Idroelettrico", "value": "Idroelettrico " },
+            { "text": "Solare", "value": "Solare " },
+            { "text": "Biomassa", "value": "Biomassa \t" },
+            { "text": "Eolico", "value": "Eolico" }
+          ]
+        },
+        "checked": false,
+        "isRequired": true
+      }
+    ]
+  }
+}
